@@ -1,0 +1,17 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+nav li:hover{
+    background-color: chartreuse;
+}
+nav li a{
+    text-decoration: none;
+}
+header{
+    text-align: center;
+}
+figure{
+    display: block;
+}
